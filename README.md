@@ -1,10 +1,5 @@
 # Basic Calculator with React
-<p>
-  To run this project, go to this link: 
-  <a href="https://codepen.io/asmnajmussakibkhan/pen/KKrjLWO">Basic Calculator with React</a>
-</p>
-
-This is a simple calculator web application built using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations and displays the results in a user-friendly interface.
+This is a simple calculator web application built using REACT JS. The calculator provides basic arithmetic operations and displays the results in a user-friendly interface.
 
 ## Features
 
@@ -14,4 +9,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-<img src="https://prnt.sc/Opsmaw4BhkQP">
+<p>
+  To run this project, go to this link: 
+  <a href="https://codepen.io/asmnajmussakibkhan/pen/KKrjLWO">Basic Calculator with React</a>
+</p>
