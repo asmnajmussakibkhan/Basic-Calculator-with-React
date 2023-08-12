@@ -14,4 +14,4 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-[Insert a screenshot or GIF of the calculator web app in action.](https://prnt.sc/Opsmaw4BhkQP)https://prnt.sc/Opsmaw4BhkQP
+<img src="https://prnt.sc/Opsmaw4BhkQP">
